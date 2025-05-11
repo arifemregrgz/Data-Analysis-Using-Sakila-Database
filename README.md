@@ -424,7 +424,7 @@ SELECT DISTINCT a.city_id
 FROM address a 
 JOIN store s ON a.address_id = s.address_id 
 ) 
-Limit 10; 
+LIMIT 10; 
 ```
 
 OUTPUT:
@@ -517,4 +517,4 @@ OUTPUT:
 | Jon             | Stephens       | 33924.06           |
 
 
-These were the questions, answers, and outputs of some MySQL queries. (Some of the "LIMIT" usages were used to shorten the outputs)
+These were the questions, answers, and outputs of some MySQL queries. (Some of the "LIMIT" usages were used to shorten the outputs.)
