@@ -1,4 +1,4 @@
-# MySQL and Sakila Database Practices in DBeaver IDE
+# MySQL and Sakila Database practices at DBeaver IDE
 
 
 SQL Database Analysis with Sakila (Beginner to Intermediate)
